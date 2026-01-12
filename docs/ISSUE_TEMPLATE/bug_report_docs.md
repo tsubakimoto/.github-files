@@ -1,5 +1,5 @@
 ---
-name: Bug report (.github)
+name: Bug report (docs)
 about: Create a report to help us improve
 title: ''
 labels: ''
